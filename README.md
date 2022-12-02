@@ -19,10 +19,10 @@ https://insta-clone-1-nlagdhir.vercel.app/
 
 ## Screenshots
 
-Homepage Feed : 
+### Homepage Feed : 
 ![HomePage Feed](https://snipboard.io/Cc5Yz1.jpg?text=Homepage+feed)
 
-LoggedIn User Feed : 
+### LoggedIn User Feed : 
 ![LoggedIn User Feed](https://snipboard.io/eMWI8V.jpg?text=LoggedIn+user+feed)
 
 
